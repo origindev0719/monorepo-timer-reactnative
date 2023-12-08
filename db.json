@@ -1,0 +1,10 @@
+{
+  "timer": {
+    "elapsedTime": 9,
+    "status": "paused",
+    "lastPause": "2023-11-27T14:23:36.662Z",
+    "lastUpdate": null,
+    "syncStatus": "send",
+    "lastSynced": "hasDataSync"
+  }
+}
